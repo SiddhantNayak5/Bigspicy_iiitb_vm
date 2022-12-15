@@ -30,7 +30,7 @@ https://github.com/SiddhantNayak5/iiitb_vm
    
 To install the python dependencies, follow the below steps: <br/>
 ```
-git clone https://github.com/ArshKedia/BigSpicy
+git https://github.com/SiddhantNayak5/Bigspicy_iiitb_vm
 cd BigSpicy/
 sudo apt-get update
 pip install -e ".[dev]"
