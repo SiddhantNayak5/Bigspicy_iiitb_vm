@@ -12,9 +12,6 @@ This repository shows the steps for merging the SPEF, verilog and spice netlist 
 
 https://github.com/SiddhantNayak5/iiitb_vm
 
-## Flowchart
-
-![image](https://user-images.githubusercontent.com/44607144/207020687-2d8eb620-e07c-4709-9898-e8de55badaab.png)
 
 ## Prerequisites
 - The protocol buffer compiler `protoc` 
@@ -52,6 +49,11 @@ XYCE: <br/>
 https://xyce.sandia.gov/documentation/BuildingGuide.html <br/>
 XDM: <br/>
 https://github.com/Xyce/XDM <br/>
+
+## Flowchart
+
+![image](https://user-images.githubusercontent.com/44607144/207020687-2d8eb620-e07c-4709-9898-e8de55badaab.png)
+
 
 ## Converting the PDKs: <br/>
 First step is to convert the PDKs into Xyce format.<br/>
